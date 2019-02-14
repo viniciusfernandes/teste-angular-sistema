@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.com.teste.angular</groupId>
-	<artifactId>teste-angular-sistema</artifactId>
+	<artifactId>teste-angular-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>teste-angular-sistema</name>
+	<name>teste-angular-backend</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
