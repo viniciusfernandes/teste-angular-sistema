@@ -4,13 +4,15 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.kazale</groupId>
-	<artifactId>p27</artifactId>
+	
+	<name>teste-angular-authentication</name>
+	<description>Projeto do tópico #27</description>
+	
+	<groupId>br.com.teste.angular</groupId>
+	<artifactId>teste-angular-authentication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>P27</name>
-	<description>Projeto do tópico #27</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
